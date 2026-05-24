@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Arijit! 👋
 
-<!--
-**ArijitDutta-0612/ArijitDutta-0612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer applications student passionate about software development and building cool projects. Welcome to my GitHub space!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Currently pursuing my Bachelor of Computer Applications (BCA)
+- 💻 Interested in Software Development & AI-powered tools
+- 🛠️ Actively exploring modern developer workflows and automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tools
+- **Languages:** Python, Java, C (Learning & Building)
+- **Editor/IDE:** VS Code (with GitHub Copilot)
+- **Version Control:** Git & GitHub
+
+## 📊 My GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArijitDutta-0612&show_icons=true&theme=radical" alt="Arijit's GitHub Stats" />
+</p>
+
+---
+*“Every day is a chance to write better code.”*
