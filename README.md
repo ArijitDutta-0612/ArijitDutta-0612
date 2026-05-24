@@ -13,9 +13,10 @@ I'm a computer applications student passionate about software development and bu
 - **Version Control:** Git & GitHub
 
 ## 📊 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArijitDutta-0612&show_icons=true&theme=radical" alt="Arijit's GitHub Stats" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=ArijitDutta-0612&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+
+## 🔥 Contribution Streak
+![](https://github-readme-streak-stats.herokuapp.com/?user=ArijitDutta-0612&theme=dark&background=0D1117&fire=58A6FF&ring=58A6FF&labels=C9D1D9)
 
 ---
 *“Every day is a chance to write better code.”*
